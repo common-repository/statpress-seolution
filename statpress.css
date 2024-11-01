@@ -1,0 +1,115 @@
+/* ### jQuery specific ### */
+span.ui-icon {
+	float: left; margin: 0 4px;
+}
+.ui-icon-inline {
+	float: none; margin: 0;
+}
+
+/*
+.ui-tabs .ui-tabs-hide {
+    position: absolute;
+    left: -10000px;
+}
+*/
+
+.sps_ssmenu {
+	margin: 15px 60px 0 0;
+}
+.sps_navigator {
+	margin: 0;
+	padding: 0 0 -3px 0;
+	border: 0;
+}
+
+.sps_navigator li {
+	float: left;
+	height: 2.5em;
+	vertical-align: middle;
+}
+
+.sps_navigator li.active a {
+	font-weight: bold;
+}
+
+.sps_navigator li:hover {
+	color: #66ff99;
+}
+
+.sps_navigator li.spacer, .sps_navigator li.spacer:hover {
+	margin: 0 10px;
+}
+
+.sps_clearer {
+	clear: both;
+}
+
+.sps_boxspacing {
+	margin-bottom: 10px;
+}
+
+.sps_admin_footer_info {
+	border-top: 1px dotted #666;
+	background: #ffcc66;
+	padding: 10px;
+	margin-top: 5px;
+	text-align: center;
+}
+.sps_admin_footer_info a {
+	color: #001133;
+}
+
+/* spy */
+.mainspytab {
+	width: 100%;
+	text-align: left;
+	vertical-align: top;
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	border-spacing: 3px;
+	empty-cells: show;
+}
+
+.mainspytab td {
+	vertical-align: top;
+	border: 0;
+}
+
+.sps_flag {
+	width: 18px;
+	height: 10px;
+	margin: 2px;
+}
+
+.sps_tdflag {
+	width: 23px;
+}
+.sps_tdip {}
+
+.sps_iframe_ipinfo {
+	overflow:hide;
+	border:0px;
+	width:90%;
+	margin-left: 5%;
+	height:45px;
+	background: #fff;
+}
+
+.sps_tdmore {}
+
+.sps_trbase {
+	border-bottom: 1px dotted #ddd;
+	padding-bottom: 3px;
+}
+.sps_trdetails {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+.sps_tdarrow {
+	height: 4em;
+}
+
+#spsfooter { text-align: center; } 
+#spsfooter-preview { padding: 10px; background:#ccc; }

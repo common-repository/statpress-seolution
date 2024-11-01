@@ -1,0 +1,108 @@
+<!-- 1 spider visits + 2 movAvg -->
+<settings>
+  <hide_bullets_count>18</hide_bullets_count>
+  <data_type>csv</data_type>
+  <skip_rows>1</skip_rows>
+  <thousands_separator>.</thousands_separator>
+  <background>
+    <border_color>006600</border_color>
+    <border_alpha>100</border_alpha>
+  </background>
+  <plot_area>
+    <alpha>100</alpha>
+    <border_alpha>20</border_alpha>
+    <margins>
+      <left>65</left>
+      <right>50</right>
+      <top>27</top>
+      <bottom>65</bottom>
+    </margins>
+  </plot_area>
+  <grid>
+    <x>
+      <alpha>10</alpha>
+      <dashed>1</dashed>
+      <approx_count>15</approx_count>
+    </x>
+    <y_left>
+      <alpha>10</alpha>
+    </y_left>
+  </grid>
+  <axes>
+    <x>
+      <tick_length>5</tick_length>
+      <width>0</width>
+      <color>0D8ECF</color>
+    </x>
+    <y_left>
+      <tick_length>5</tick_length>
+      <width>1</width>
+      <color>0D8ECF</color>
+    </y_left>
+  </axes>
+  <values>
+    <x>
+      <color>000000</color>
+    </x>
+  </values>
+  <indicator>
+    <color>0D8ECF</color>
+    <x_balloon_text_color>FFFFFF</x_balloon_text_color>
+    <line_alpha>50</line_alpha>
+    <selection_color>0D8ECF</selection_color>
+    <selection_alpha>20</selection_alpha>
+  </indicator>
+  <legend>
+    <align>center</align>
+    <key>
+      <size>18</size>
+    </key>
+  </legend>
+  <zoom_out_button>
+    <text_color_hover>FF0F00</text_color_hover>
+  </zoom_out_button>
+  <help>
+    <button>
+      <color>FCD202</color>
+      <text_color>000000</text_color>
+      <text_color_hover>FF0F00</text_color_hover>
+    </button>
+    <balloon>
+      <text><![CDATA[Click on the graph to turn on/off value baloon <br/><br/>Click on legend key to show/hide graph<br/><br/>Mark the area you wish to enlarge]]></text>
+      <color>FCD202</color>
+      <text_color>000000</text_color>
+    </balloon>
+  </help>
+  <graphs>
+    <graph gid="0">
+      <title>Real Count</title>
+      <color>0D8ECF</color>
+      <color_hover>FF0F00</color_hover>
+      <line_width>2</line_width>
+      <fill_color>0099FF</fill_color>
+      <fill_alpha>15</fill_alpha>
+    </graph>
+    <graph gid="1">
+      <title>Moving Avg (7 Days)</title>
+      <color>006600</color>
+      <color_hover>FF00FF</color_hover>
+      <line_width>2</line_width>
+	  <hidden>1</hidden>
+    </graph>
+    <graph gid="2">
+      <title>Moving Avg (14 Days)</title>
+      <color>FF6600</color>
+      <color_hover>990000</color_hover>
+      <line_width>2</line_width>
+	  <hidden>1</hidden>
+    </graph>
+    <graph gid="3">
+      <title>Moving Avg (weighted 14 Days)</title>
+      <color>993300</color>
+      <color_hover>990099</color_hover>
+      <line_width>2</line_width>
+      <fill_color>990099</fill_color>
+	  <fill_alpha>15</fill_alpha>
+    </graph>
+  </graphs>
+</settings>

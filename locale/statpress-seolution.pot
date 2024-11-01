@@ -1,0 +1,552 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/statpress-seolution\n"
+"POT-Creation-Date: 2009-07-02 16:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: module.agents.php:13
+msgid "Unknown User Agents"
+msgstr ""
+
+#: module.agents.php:15 module.main.php:803 module.main.php:841
+#: module.main.php:851 module.main.php:861 module.main.php:871
+#: module.spiderstats.php:227 module.spiderstats.php:260
+msgid "Date"
+msgstr ""
+
+#: module.agents.php:16
+msgid "Last Time"
+msgstr ""
+
+#: module.agents.php:17 module.main.php:803 module.search.php:15
+msgid "IP"
+msgstr ""
+
+#: module.agents.php:18 module.search.php:185 module.spiderstats.php:282
+msgid "Count"
+msgstr ""
+
+#: module.agents.php:19
+msgid "User Agent"
+msgstr ""
+
+#: module.details.php:33
+msgid "Top days"
+msgstr ""
+
+#: module.details.php:38
+msgid "O.S."
+msgstr ""
+
+#: module.details.php:43 module.main.php:803 module.search.php:13
+msgid "Browser"
+msgstr ""
+
+#: module.details.php:48 module.main.php:265
+msgid "Feeds"
+msgstr ""
+
+#: module.details.php:53
+msgid "Search engines"
+msgstr ""
+
+#: module.details.php:58
+msgid "Top search terms"
+msgstr ""
+
+#: module.details.php:63
+msgid "Top referrer"
+msgstr ""
+
+#: module.details.php:68
+msgid "Countries (domains)"
+msgstr ""
+
+#: module.details.php:73 module.main.php:194
+msgid "Spiders"
+msgstr ""
+
+#: module.details.php:78
+msgid "Top pages"
+msgstr ""
+
+#: module.details.php:84
+msgid "Top Days - Unique visitors"
+msgstr ""
+
+#: module.details.php:90
+msgid "Top Days - Pageviews"
+msgstr ""
+
+#: module.details.php:96
+msgid "Top IPs - Pageviews"
+msgstr ""
+
+#: module.main.php:14 module.main.php:803
+msgid "Last hits"
+msgstr ""
+
+#: module.main.php:15 module.main.php:841
+msgid "Last search terms"
+msgstr ""
+
+#: module.main.php:16 module.main.php:851
+msgid "Last referrers"
+msgstr ""
+
+#: module.main.php:17 module.main.php:861
+msgid "Last agents"
+msgstr ""
+
+#: module.main.php:18 module.main.php:871
+msgid "Last pages"
+msgstr ""
+
+#: module.main.php:35
+msgid "Overview"
+msgstr ""
+
+#: module.main.php:38
+msgid "Total"
+msgstr ""
+
+#: module.main.php:39
+msgid "Last month"
+msgstr ""
+
+#: module.main.php:40 module.main.php:41
+msgid "This month"
+msgstr ""
+
+#: module.main.php:41
+msgid "Target"
+msgstr ""
+
+#: module.main.php:42
+msgid "Yesterday"
+msgstr ""
+
+#: module.main.php:43
+msgid "Today"
+msgstr ""
+
+#: module.main.php:49
+msgid "Visitors"
+msgstr ""
+
+#: module.main.php:122
+msgid "Pageviews"
+msgstr ""
+
+#: module.main.php:354 module.main.php:467 module.main.php:584
+#: module.main.php:701 module.spiderstats.php:128
+msgid "You need to upgrade your Flash Player"
+msgstr ""
+
+#: module.main.php:355 module.main.php:468 module.main.php:585
+#: module.main.php:702 module.spiderstats.php:129
+msgid "Please check also following URL"
+msgstr ""
+
+#: module.main.php:356 module.main.php:469 module.main.php:586
+#: module.main.php:703 module.spiderstats.php:130
+msgid "And: Javascript should be enabled of course!"
+msgstr ""
+
+#: module.main.php:803 module.main.php:841 module.main.php:851
+#: module.main.php:861 module.main.php:871 module.spiderstats.php:228
+#: module.spiderstats.php:261
+msgid "Time"
+msgstr ""
+
+#: module.main.php:803
+msgid "Threat"
+msgstr ""
+
+#: module.main.php:803
+msgid "Domain"
+msgstr ""
+
+#: module.main.php:803 module.main.php:871 module.spiderstats.php:229
+#: module.spiderstats.php:262 statpress.php:476 statpress.php:498
+#: statpress.php:505 statpress.php:527
+msgid "Page"
+msgstr ""
+
+#: module.main.php:803
+msgid "OS"
+msgstr ""
+
+#: module.main.php:803
+msgid "Feed"
+msgstr ""
+
+#: module.main.php:841
+msgid "Terms"
+msgstr ""
+
+#: module.main.php:841
+msgid "Engine"
+msgstr ""
+
+#: module.main.php:841 module.main.php:851
+msgid "Result"
+msgstr ""
+
+#: module.main.php:846 module.main.php:856
+msgid "page viewed"
+msgstr ""
+
+#: module.main.php:851 module.spiderstats.php:283
+msgid "URL"
+msgstr ""
+
+#: module.main.php:861 module.search.php:8 module.spiderstats.php:230
+#: module.spiderstats.php:264
+msgid "Agent"
+msgstr ""
+
+#: module.main.php:861 module.main.php:871
+msgid "What"
+msgstr ""
+
+#: module.main.php:882
+msgid "StatPress table size"
+msgstr ""
+
+#: module.main.php:883
+msgid "StatPress current time"
+msgstr ""
+
+#: module.main.php:884
+msgid "RSS2 url"
+msgstr ""
+
+#: module.main.php:885
+msgid "ATOM url"
+msgstr ""
+
+#: module.main.php:886
+msgid "RSS url"
+msgstr ""
+
+#: module.main.php:887
+msgid "COMMENT RSS2 url"
+msgstr ""
+
+#: module.main.php:888
+msgid "COMMENT ATOM url"
+msgstr ""
+
+#: module.search.php:7
+msgid "URL Requested"
+msgstr ""
+
+#: module.search.php:9
+msgid "Referrer"
+msgstr ""
+
+#: module.search.php:10
+msgid "Search terms"
+msgstr ""
+
+#: module.search.php:11
+msgid "Search engine"
+msgstr ""
+
+#: module.search.php:12
+msgid "Operative system"
+msgstr ""
+
+#: module.search.php:14 module.spiderstats.php:226 module.spiderstats.php:263
+msgid "Spider"
+msgstr ""
+
+#: module.search.php:18 module.search.php:88 statpress.php:122
+#: statpress.php:488 statpress.php:517
+msgid "Search"
+msgstr ""
+
+#: module.search.php:25
+msgid "Field"
+msgstr ""
+
+#: module.search.php:36
+msgid "Group by"
+msgstr ""
+
+#: module.search.php:37
+msgid "Sort by"
+msgstr ""
+
+#: module.search.php:38
+msgid "if contains"
+msgstr ""
+
+#: module.search.php:51
+msgid "sort by count if grouped"
+msgstr ""
+
+#: module.search.php:56
+msgid "include spiders/crawlers/bot"
+msgstr ""
+
+#: module.search.php:61
+msgid "include feed"
+msgstr ""
+
+#: module.search.php:66
+msgid "SELECT DISTINCT"
+msgstr ""
+
+#: module.search.php:75 statpress.php:1297
+msgid "Limit results to"
+msgstr ""
+
+#: module.search.php:172
+msgid "Results"
+msgstr ""
+
+#: module.spiderstats.php:44
+msgid "Search for Bot:"
+msgstr ""
+
+#: module.spiderstats.php:46
+msgid "Send"
+msgstr ""
+
+#: module.spiderstats.php:47
+msgid "Reset"
+msgstr ""
+
+#: module.spiderstats.php:98
+msgid "How often today and yesterday?"
+msgstr ""
+
+#: module.spiderstats.php:99
+msgid "Total visits of the spider today"
+msgstr ""
+
+#: module.spiderstats.php:99
+msgid "and yesterday"
+msgstr ""
+
+#: module.spiderstats.php:99
+msgid "change"
+msgstr ""
+
+#: module.spiderstats.php:100
+msgid "Total visits since start time of counting"
+msgstr ""
+
+#: module.spiderstats.php:100
+msgid "Todays alltime thousandth"
+msgstr ""
+
+#: module.spiderstats.php:221
+msgid "Bots - 5 visits per type"
+msgstr ""
+
+#: module.spiderstats.php:223
+msgid "Bots - 25 visits per type"
+msgstr ""
+
+#: module.spiderstats.php:243
+msgid "last visited"
+msgstr ""
+
+#: module.spiderstats.php:258
+msgid "Bots - The last 25 visits (of all types)"
+msgstr ""
+
+#: module.spiderstats.php:280
+msgid "Top 25 of last crawled URLs"
+msgstr ""
+
+#: module.spy.php:36 statpress.php:121
+msgid "Spy"
+msgstr ""
+
+#: module.spy.php:88 statpress.php:366
+msgid "more info"
+msgstr ""
+
+#: module.spy.php:108 module.spy.php:112
+msgid "arrived from"
+msgstr ""
+
+#: module.spy.php:108
+msgid "searching"
+msgstr ""
+
+#: statpress.php:119
+msgid "Spider Stats"
+msgstr ""
+
+#: statpress.php:120
+msgid "Details"
+msgstr ""
+
+#: statpress.php:123 statpress.php:417
+msgid "Export"
+msgstr ""
+
+#: statpress.php:124 statpress.php:263
+msgid "Options"
+msgstr ""
+
+#: statpress.php:125
+msgid "User Agents"
+msgstr ""
+
+#: statpress.php:126
+msgid "StatPressUpdate"
+msgstr ""
+
+#: statpress.php:257
+msgid "Saved"
+msgstr ""
+
+#: statpress.php:267
+msgid "Collect data about logged users, too."
+msgstr ""
+
+#: statpress.php:268
+msgid "Do not collect spiders visits"
+msgstr ""
+
+#: statpress.php:271
+msgid "Automatically delete visits older than"
+msgstr ""
+
+#: statpress.php:278 statpress.php:308
+msgid "Never delete!"
+msgstr ""
+
+#: statpress.php:284 statpress.php:311
+msgid "month"
+msgstr ""
+
+#: statpress.php:290 statpress.php:296
+msgid "months"
+msgstr ""
+
+#: statpress.php:302 statpress.php:312
+msgid "year"
+msgstr ""
+
+#: statpress.php:306
+msgid "Automatically delete spider visits older than"
+msgstr ""
+
+#: statpress.php:309
+msgid "day"
+msgstr ""
+
+#: statpress.php:310
+msgid "week"
+msgstr ""
+
+#: statpress.php:316
+msgid "Days in Overview graph"
+msgstr ""
+
+#: statpress.php:358
+msgid "Minimum capability to view stats"
+msgstr ""
+
+#: statpress.php:371
+msgid "Save options"
+msgstr ""
+
+#: statpress.php:404
+msgid "Export stats to text file"
+msgstr ""
+
+#: statpress.php:408
+msgid "From"
+msgstr ""
+
+#: statpress.php:411
+msgid "To"
+msgstr ""
+
+#: statpress.php:414
+msgid "Fields delimiter"
+msgstr ""
+
+#: statpress.php:480 statpress.php:509
+msgid "Category"
+msgstr ""
+
+#: statpress.php:484
+msgid "Calendar"
+msgstr ""
+
+#: statpress.php:599 statpress.php:1298
+msgid "Visits"
+msgstr ""
+
+#: statpress.php:991
+msgid "Updating table struct"
+msgstr ""
+
+#: statpress.php:993 statpress.php:1036 statpress.php:1048 statpress.php:1060
+#: statpress.php:1073 statpress.php:1078 statpress.php:1096
+msgid "done"
+msgstr ""
+
+#: statpress.php:996 statpress.php:1076
+msgid "Updating Feeds"
+msgstr ""
+
+#: statpress.php:1039
+msgid "Updating OS"
+msgstr ""
+
+#: statpress.php:1051
+msgid "Updating Browsers"
+msgstr ""
+
+#: statpress.php:1062
+msgid "Updating Spiders"
+msgstr ""
+
+#: statpress.php:1081
+msgid "Updating Search engines"
+msgstr ""
+
+#: statpress.php:1084
+msgid "null-ed"
+msgstr ""
+
+#: statpress.php:1086
+msgid "select-ed"
+msgstr ""
+
+#: statpress.php:1100
+msgid "Updated"
+msgstr ""
+
+#: statpress.php:1255
+msgid "Title:"
+msgstr ""
+
+#: statpress.php:1256
+msgid "Body:"
+msgstr ""
+
+#: statpress.php:1296
+msgid "Title"
+msgstr ""

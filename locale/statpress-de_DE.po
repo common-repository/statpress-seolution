@@ -1,0 +1,690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: statpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-25 01:01+0100\n"
+"PO-Revision-Date: 2009-05-25 01:02+0100\n"
+"Last-Translator: Christoph Grabo <blogcrafter@blogcraft.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution\n"
+
+# The German translation of "Spy" sounds weird in this context. I chose to name it "visitor information" instead.
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spy.php:36
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:69
+msgid "Spy"
+msgstr "Besucher-Informationen"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spy.php:88
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:288
+msgid "more info"
+msgstr "mehr Informationen"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spy.php:108
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spy.php:112
+msgid "arrived from"
+msgstr "weitergeleitet von"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spy.php:108
+msgid "searching"
+msgstr "suchend"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:19
+msgid "Overview"
+msgstr "Übersicht"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:22
+msgid "Total"
+msgstr "Insgesamt"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:23
+msgid "Last month"
+msgstr "Letzten Monat"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:24
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:25
+msgid "This month"
+msgstr "Diesen Monat"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:25
+#, fuzzy
+msgid "Target"
+msgstr "Seite"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:26
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:27
+msgid "Today"
+msgstr "Heute"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:33
+msgid "Visitors"
+msgstr "Besucher"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:106
+msgid "Pageviews"
+msgstr "Seitenzugriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:178
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:34
+msgid "Spiders"
+msgstr "Spiders"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:249
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:19
+#, fuzzy
+msgid "Feeds"
+msgstr "Feld"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:337
+msgid "You need to upgrade your Flash Player"
+msgstr "Du musst deinen Flash Player aktualisieren"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+msgid "Last hits"
+msgstr "Letzte Seitenzugriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:465
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:475
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:485
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:495
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:43
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:71
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.agents.php:15
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:43
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:71
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:42
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:41
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:69
+msgid "Date"
+msgstr "Datum"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:465
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:475
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:485
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:495
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:44
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:72
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:44
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:72
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:43
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:42
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:70
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:15
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.agents.php:17
+msgid "IP"
+msgstr "IP"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+#, fuzzy
+msgid "Threat"
+msgstr "Was"
+
+# German translation "Domäne" could be inappropriate. The english word is usually used.
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+msgid "Domain"
+msgstr "Domain"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:495
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:45
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:73
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:398
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:420
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:427
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:449
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:45
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:73
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:44
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:43
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:71
+msgid "Page"
+msgstr "Seite"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+msgid "OS"
+msgstr "Betriebssystem"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:13
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:16
+msgid "Browser"
+msgstr "Browser"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:428
+#, fuzzy
+msgid "Feed"
+msgstr "Feld"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:465
+msgid "Last search terms"
+msgstr "Letzte Suchbegriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:465
+msgid "Terms"
+msgstr "Suchbegriff"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:465
+msgid "Engine"
+msgstr "Suchmaschine"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:465
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:475
+msgid "Result"
+msgstr "Ergebnis"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:470
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:480
+msgid "page viewed"
+msgstr "Seite aufgerufen"
+
+# Again an english word. Got no better translation at the moment
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:475
+msgid "Last referrers"
+msgstr "Letzte Referrer"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:475
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:94
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:110
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:94
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:110
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:92
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:108
+msgid "URL"
+msgstr "URL"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:485
+msgid "Last agents"
+msgstr "Letzte Programme"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:485
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:46
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:75
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:8
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:46
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:75
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:45
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:44
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:73
+msgid "Agent"
+msgstr "Programm"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:485
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:495
+msgid "What"
+msgstr "Was"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:495
+msgid "Last pages"
+msgstr "Letzte Seiten"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:506
+msgid "StatPress table size"
+msgstr "Statpress Tabellengröße"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:507
+msgid "StatPress current time"
+msgstr "Statpress Aktuelle Zeit"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:508
+msgid "RSS2 url"
+msgstr "Beiträge Feed-URL (RSS2)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:509
+msgid "ATOM url"
+msgstr "Beiträge Feed-URL (ATOM)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:510
+msgid "RSS url"
+msgstr "Beiträge Feed-URL (RSS)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:511
+msgid "COMMENT RSS2 url"
+msgstr "Kommentare Feed-URL (RSS2)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.main.php:512
+msgid "COMMENT ATOM url"
+msgstr "Kommentare Feed-URL (RSS2)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:35
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:35
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:33
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:33
+msgid "How often today and yesterday?"
+msgstr "Wie oft (heute und gestern)?"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:36
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:36
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:34
+msgid "Total visits of the spider today"
+msgstr "Besuche insgesamt seit der Aufzeichnung"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:36
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:36
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:34
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:34
+#, fuzzy
+msgid "and yesterday"
+msgstr "Gestern"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:36
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:36
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:34
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:34
+#, fuzzy
+msgid "change"
+msgstr "Seite"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:37
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:37
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:35
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:35
+msgid "Total visits since start time of counting"
+msgstr "Anzahl der Besuche seit Aufzeichnungsbeginn"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:37
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:37
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:35
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:35
+msgid "Todays alltime thousandth"
+msgstr "Heutige Alltime-Promille"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:40
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:40
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:38
+msgid "Bots - 25 visits per type"
+msgstr "Bots - 25 Besuche je Typ"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:42
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:74
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:14
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:42
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:74
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:41
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:40
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:72
+msgid "Spider"
+msgstr "Spider"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:54
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:54
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:53
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:52
+msgid "last visited"
+msgstr "zuletzt besucht am"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:69
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:69
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:67
+msgid "Bots - The last 25 visits (of all types)"
+msgstr "Bots - Die letzten 25 Besuche (alle Typen zusammen)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:91
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:91
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:89
+msgid "Top 10 of last crawled URLs"
+msgstr "Die 10 meist besuchten URLs (Seiten)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:93
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:109
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:185
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.agents.php:18
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:93
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:109
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:91
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:107
+msgid "Count"
+msgstr "Anzahl"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.msnlive.php:107
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.yahoo.php:107
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.google.php:105
+msgid "All crawled URLs, alphabetic order"
+msgstr "Alle besuchten Seiten, alphabetisch sortiert"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:7
+msgid "URL Requested"
+msgstr "aufgerufene URL"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:9
+msgid "Referrer"
+msgstr "Referrer"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:10
+msgid "Search terms"
+msgstr "Suchbegriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:11
+msgid "Search engine"
+msgstr "Suchmaschine"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:12
+msgid "Operative system"
+msgstr "Betriebssystem "
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:18
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:88
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:70
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:410
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:439
+msgid "Search"
+msgstr "Suche"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:25
+msgid "Field"
+msgstr "Feld"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:36
+msgid "Group by"
+msgstr "Gruppieren nach"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:37
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:38
+msgid "if contains"
+msgstr "wenn beinhaltet"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:51
+msgid "sort by count if grouped"
+msgstr "bei Gruppierung nach Anzahl sortieren"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:56
+msgid "include spiders/crawlers/bot"
+msgstr "spiders/crawlers/bots mit einbeziehen"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:61
+msgid "include feed"
+msgstr "feeds mit einbeziehen"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:66
+msgid "SELECT DISTINCT"
+msgstr "SELECT DISTINCT"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:75
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1219
+msgid "Limit results to"
+msgstr "Ergebnis begrenzen auf"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.search.php:172
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:10
+#, fuzzy
+msgid "Top days"
+msgstr "Heute"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:13
+msgid "O.S."
+msgstr "Betriebssystem"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:22
+#, fuzzy
+msgid "Search engines"
+msgstr "Suchmaschine"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:25
+#, fuzzy
+msgid "Top search terms"
+msgstr "Letzte Suchbegriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:28
+#, fuzzy
+msgid "Top referrer"
+msgstr "Referrer"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:31
+msgid "Countries (domains)"
+msgstr "Länder (nach Domains)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:37
+#, fuzzy
+msgid "Top pages"
+msgstr "Letzte Seiten"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:41
+msgid "Top Days - Unique visitors"
+msgstr "Beste Tage nach Besuchern (unique)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:45
+#, fuzzy
+msgid "Top Days - Pageviews"
+msgstr "Seitenzugriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.details.php:49
+#, fuzzy
+msgid "Top IPs - Pageviews"
+msgstr "Seitenzugriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:64
+msgid "Details"
+msgstr "Details"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:65
+msgid "Spider Stats"
+msgstr "Spider Statistiken"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:66
+msgid "Google"
+msgstr "Google"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:67
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:68
+msgid "MSN Live"
+msgstr "MSN Live"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:71
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:339
+msgid "Export"
+msgstr "Export"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:72
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:185
+msgid "Options"
+msgstr "Einstellungen"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:73
+#, fuzzy
+msgid "User Agents"
+msgstr "Letzte Programme"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:74
+msgid "StatPressUpdate"
+msgstr "Statpress Tabellen- und Daten-Update"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:179
+msgid "Saved"
+msgstr "Gespeichert"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:189
+msgid "Collect data about logged users, too."
+msgstr "Daten angemeldeter Benutzer ebenfalls speichern"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:190
+msgid "Do not collect spiders visits"
+msgstr "Zähle keine Spiderbesuche"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:193
+msgid "Automatically delete visits older than"
+msgstr "Automatisch Einträge löschen, die älter sind als"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:200
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:230
+msgid "Never delete!"
+msgstr "Nie löschen!"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:206
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:233
+msgid "month"
+msgstr "Monat"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:212
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:218
+msgid "months"
+msgstr "Monate"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:224
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:234
+msgid "year"
+msgstr "Jahr"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:228
+#, fuzzy
+msgid "Automatically delete spider visits older than"
+msgstr "Automatisch Einträge löschen, die älter sind als"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:231
+#, fuzzy
+msgid "day"
+msgstr "Heute"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:232
+msgid "week"
+msgstr "Woche"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:238
+msgid "Days in Overview graph"
+msgstr "Anzahl der Tage in der Übersicht"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:280
+msgid "Minimum capability to view stats"
+msgstr "Minimales Benutzerrecht um Statistiken anzuschauen"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:293
+msgid "Save options"
+msgstr "Speicher-Optionen"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:326
+msgid "Export stats to text file"
+msgstr "Statistiken in eine Text-Datei exportieren"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:330
+msgid "From"
+msgstr "Von"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:333
+msgid "To"
+msgstr "An"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:336
+msgid "Fields delimiter"
+msgstr "Feldtrenner"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:402
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:431
+msgid "Category"
+msgstr "Kategorie"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:406
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:521
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1220
+msgid "Visits"
+msgstr "Besuche"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:913
+msgid "Updating table struct"
+msgstr "Aktualisiere Tabellenstruktur"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:915
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:958
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:970
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:982
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:995
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1000
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1018
+msgid "done"
+msgstr "fertig"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:918
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:998
+#, fuzzy
+msgid "Updating Feeds"
+msgstr "Aktualisiert"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:961
+msgid "Updating OS"
+msgstr "Aktualisiere Betriebssysteme"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:973
+msgid "Updating Browsers"
+msgstr "Aktualisiere Browser"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:984
+msgid "Updating Spiders"
+msgstr "Aktualisiere Spider (Suchmaschinen-Robots)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1003
+#, fuzzy
+msgid "Updating Search engines"
+msgstr "Suchmaschine"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1006
+msgid "null-ed"
+msgstr "geleert"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1008
+msgid "select-ed"
+msgstr "ausgewählt"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1022
+msgid "Updated"
+msgstr "Aktualisiert"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1177
+msgid "Title:"
+msgstr "Titel:"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1178
+msgid "Body:"
+msgstr "Nachricht:"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/statpress.php:1218
+#, fuzzy
+msgid "Title"
+msgstr "Titel:"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.agents.php:13
+msgid "Unknown User Agents"
+msgstr "Noch unbekannte User-Agents (Browserkennungen)"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.agents.php:16
+#, fuzzy
+msgid "Last Time"
+msgstr "Letzte Seitenzugriffe"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.agents.php:19
+#, fuzzy
+msgid "User Agent"
+msgstr "Programm"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:34
+msgid "Total visits of all spiders today"
+msgstr "Heutige Gesamtzahl der Besuche aller Spiders"
+
+#: /home/chris/Dropbox/Dateien/_webdevelopment/wordpress_plugins/statpress-seolution/module.spiderstats.php:39
+#, fuzzy
+msgid "Last spiders"
+msgstr "Letzte Seiten"
+
